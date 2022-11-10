@@ -4,6 +4,7 @@ This is a very simple textbased rpg game that is made without pygames .
 The databse libriary has all the necessary informaion. Do ensure that all the three files are kept in the same place 
 
 Screen Shots:
+
 ![WhatsApp Image 2021-08-04 at 11 00 05 AM (1)](https://user-images.githubusercontent.com/73180844/201093943-6896ea6a-77d9-488d-874d-78b4f1daee90.jpeg)
 
 ![WhatsApp Image 2021-08-04 at 11 00 05 AM](https://user-images.githubusercontent.com/73180844/201094098-1de9b6a5-17f4-4e00-9fa4-4a7d5fc700a2.jpeg)
